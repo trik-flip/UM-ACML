@@ -1,0 +1,4 @@
+name = "AutoEncoder"
+uuid = "6d51b9c0-0112-43f4-946d-0eec4f857c96"
+authors = ["Philip Bollen <flip.philip@hotmail.com>"]
+version = "0.1.0"
