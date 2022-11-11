@@ -14,3 +14,7 @@
 /a50w1.svg
 /a50w2.svg
 /AutoEncoder.zip
+**/data/
+**/models/*.pt
+!**/models/latest.pt
+.vscode/settings.json
