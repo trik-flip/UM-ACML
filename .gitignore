@@ -16,5 +16,5 @@
 /AutoEncoder.zip
 **/data/
 **/models/*.pt
-!**/models/latest.pt
+!**/models/*latest.pt
 .vscode/settings.json
